@@ -13,3 +13,11 @@
 
 ## 代码 实际结果
 <img width="1200" height="400" alt="Figure_1" src="https://github.com/user-attachments/assets/e8f8bda6-d404-4f36-8373-4dd30ef2c046" />
+
+# 第4讲 反向传播
+
+## 代码结果
+<img width="1200" height="400" alt="Figure_1" src="https://github.com/user-attachments/assets/96971f38-7166-4295-aa88-9f7836bbf0b5" />
+
+## 作业结果
+<img width="1200" height="400" alt="Figure_2" src="https://github.com/user-attachments/assets/40b6c204-bf17-4e7c-8f7e-674d39a0c438" />
