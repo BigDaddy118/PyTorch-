@@ -1,3 +1,5 @@
+该项目为对B站[《PyTorch深度学习实践》](https://www.bilibili.com/video/BV1Y7411d7Ys/?spm_id_from=444.41.top_right_bar_window_custom_collection.content.click&vd_source=17780b2d17b079097738083568284132)的学习笔记
+
 # 第2讲 线性模型
 ## 代码结果
 <img width="640" height="480" alt="Figure_1" src="https://github.com/user-attachments/assets/5f3ed04f-6877-4ddf-9d92-51f3ef72272e" />
@@ -21,3 +23,8 @@
 
 ## 作业结果
 <img width="1200" height="400" alt="Figure_2" src="https://github.com/user-attachments/assets/40b6c204-bf17-4e7c-8f7e-674d39a0c438" />
+
+# 第5讲 用PyTorch实现线性回归
+
+## 代码结果
+<img width="640" height="480" alt="Figure_1" src="https://github.com/user-attachments/assets/58c046ae-90c9-456b-8508-420c68e6c74a" />
