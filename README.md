@@ -28,3 +28,9 @@
 
 ## 代码结果
 <img width="640" height="480" alt="Figure_1" src="https://github.com/user-attachments/assets/58c046ae-90c9-456b-8508-420c68e6c74a" />
+
+# 第6讲 逻辑斯蒂回归
+
+## 结果
+<img width="640" height="480" alt="Figure_1" src="https://github.com/user-attachments/assets/59109bad-d54a-4b4e-9120-e54b9a9e31a4" />
+<img width="1000" height="400" alt="Figure_" src="https://github.com/user-attachments/assets/677e1b20-78be-458c-8815-a9e874e79408" />
