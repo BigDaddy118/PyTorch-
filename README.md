@@ -39,3 +39,8 @@
 
 ## 结果
 <img width="640" height="480" alt="Figure_1" src="https://github.com/user-attachments/assets/dc2f64a9-f35b-4197-a24a-049f7baa45e8" />
+
+# 第8讲 加载数据集
+
+## 结果
+<img width="1000" height="500" alt="Figure_1" src="https://github.com/user-attachments/assets/b9564eb0-707a-42bf-aa69-e1d33fe04bb0" />
