@@ -44,3 +44,9 @@
 
 ## 结果
 <img width="1000" height="500" alt="Figure_1" src="https://github.com/user-attachments/assets/b9564eb0-707a-42bf-aa69-e1d33fe04bb0" />
+
+# 第9讲 多分类问题
+
+## 结果
+<img width="1200" height="500" alt="Figure_1" src="https://github.com/user-attachments/assets/5438f24a-f140-4786-9a74-d7c13001dafb" />
+
